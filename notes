@@ -1,0 +1,11 @@
+project/
+├── app.py
+└── static/
+    └── amal.jpg
+└── templates/
+    └── index.html
+
+
+
+
+
